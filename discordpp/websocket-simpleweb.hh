@@ -7,7 +7,7 @@
 #include <discordpp/botStruct.hh>
 #include <discordpp/log.hh>
 
-#include "lib/simple-websocket-server/client_wss.hpp"
+#include <simple-websocket-server/client_wss.hpp>
 #include <nlohmann/json.hpp>
 
 using json = nlohmann::json;
